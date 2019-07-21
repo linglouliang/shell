@@ -13,6 +13,7 @@ do
               do
                 echo -e "$f$e:$d$c:$b$a""\b\c"
                 sleep 1
+                #clear
                 echo -e "\b\b\b\b\b\b\b\b\c"
               done
            done
